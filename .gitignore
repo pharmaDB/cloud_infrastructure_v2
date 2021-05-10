@@ -1,0 +1,9 @@
+./.terraform
+./neo4j_key
+./neo4j_key.pub
+./mongodb_key
+./mongodb_key.pub
+./terraform.tfstate
+./terraform.tfstate.backup
+./.terraform.lock.hcl
+
